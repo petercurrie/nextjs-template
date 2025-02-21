@@ -7,7 +7,7 @@ This is a template for a digital garden or personal blog built with NextJS, Tail
 ### Set Up
 
 1. Clone the repo
-   `https://github.com/stormcloud266/nextjs-garden-template.git your-project`
+   `https://github.com/petercurrie/nextjs-template.git your-project`
 
 2. Navigate and install
    `cd your-project && yarn install`
